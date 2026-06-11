@@ -1,16 +1,87 @@
-## Hi there 👋
+Hi, I'm Tristan Silva 👋
 
-<!--
-**tristanSilva/tristanSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation Engineer · RPA Developer · Full-Stack Builder
+📍 Naga City, Philippines · 25+ years in IT
 
-Here are some ideas to get you started:
+I build AI-powered automation systems, civic tech platforms, and intelligent workflows — bridging enterprise automation with modern LLM engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔧 What I Work With
+
+AI & Automation
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+Backend & APIs
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+Frontend & Mobile
+Show Image
+Show Image
+Show Image
+
+DevOps & Cloud
+Show Image
+Show Image
+Show Image
+Show Image
+
+
+🚀 What I'm Building
+
+
+AI Automation workflows using LangChain, Ollama, and local LLMs — RAG pipelines, CLI chatbots, agentic tools
+Civic tech platforms for Philippine LGUs — constituent management, genealogy systems, executive dashboards
+Hyperlocal mobile apps — loyalty/gamification systems, QR check-ins, map-based discovery for local businesses
+RPA solutions at enterprise scale — deployed across multinational operations (Nestlé, Maersk)
+
+
+
+Most production work is under NDA or commercial contract. Repos here represent learning tracks and open experiments.
+
+
+
+
+📌 Current Focus
+
+✅ LangChain + LangGraph + CrewAI  (agentic AI pipelines)
+✅ n8n workflow automation          (self-hosted orchestration)
+✅ NestJS microservices             (production API architecture)
+🔄 DevOps / CI-CD                  (GitHub Actions, Terraform)
+🔄 React Native                    (cross-platform mobile)
+
+
+📂 Featured Project
+
+🤖 langchain-ollama-projects
+
+A growing collection of LangChain + Ollama experiments running entirely on local LLMs.
+Includes: CLI chatbot with persistent memory (NagaBot), RAG pipeline experiments, and prompt engineering patterns.
+
+Python · LangChain · Ollama · Local LLMs · RAG
+
+
+🏢 Background
+
+RoleWhereBusiness Process Automation DeveloperNestlé Business Services AOAFull Stack + RPA DeveloperMaerskFull Stack DeveloperDecode Technologies / Plexigrid (UN Global Compact)Team Lead, DeveloperHP / DXC TechnologyIT InstructorSTI College
+
+Education: Post Graduate Diploma in IT · University of the Philippines
+BS Accountancy · Ateneo de Naga University
+
+
+📫 Let's Connect
+
+I'm open to remote AI Automation Engineering roles and consulting engagements, particularly with teams building intelligent workflows, LLM-powered tools, or civic/government platforms.
+
+Show Image
+Show Image
+
+
+"The quieter you become, the more you are able to hear."
