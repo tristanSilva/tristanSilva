@@ -1,7 +1,7 @@
 Hi, I'm Tristan Silva 👋
 
 AI Automation Engineer · RPA Developer · Full-Stack Builder
-📍 Naga City, Philippines · 25+ years in IT
+📍 Naga City, Philippines
 
 I build AI-powered automation systems, civic tech platforms, and intelligent workflows — bridging enterprise automation with modern LLM engineering.
 
