@@ -1,7 +1,6 @@
 Hi, I'm Tristan Silva 👋
 
 AI Automation Engineer · RPA Developer · Full-Stack Builder
-📍 Naga City, Philippines
 
 I build AI-powered automation systems, civic tech platforms, and intelligent workflows — bridging enterprise automation with modern LLM engineering.
 
@@ -9,9 +8,13 @@ I build AI-powered automation systems, civic tech platforms, and intelligent wor
 🔧 What I Work With
 
 AI & Automation
+
 Backend & APIs
+
 Frontend & Mobile
+
 DevOps & Cloud
+
 
 🚀 What I'm Building
 
@@ -42,18 +45,20 @@ Python · LangChain · Ollama · Local LLMs · RAG
 
 🏢 Background
 
-RoleWhereBusiness Process Automation DeveloperNestlé Business Services AOAFull Stack + RPA DeveloperMaerskFull Stack DeveloperDecode Technologies / Plexigrid (UN Global Compact)Team Lead, DeveloperHP / DXC TechnologyIT InstructorSTI College
+Role
 
-Education: Post Graduate Diploma in IT · University of the Philippines
-BS Accountancy · Ateneo de Naga University
 
+Nestlé Business Services AOA
+Business Process Automation Developer 
+
+Maersk
+Full Stack Developer + RPA Developer
+
+Decode Technologies / Plexigrid, 
+Developer
 
 📫 Let's Connect
 
 I'm open to remote AI Automation Engineering roles and consulting engagements, particularly with teams building intelligent workflows, LLM-powered tools, or civic/government platforms.
-
-Show Image
-Show Image
-
 
 "The quieter you become, the more you are able to hear."
