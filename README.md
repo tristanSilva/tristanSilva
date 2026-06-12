@@ -9,45 +9,18 @@ I build AI-powered automation systems, civic tech platforms, and intelligent wor
 🔧 What I Work With
 
 AI & Automation
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
 Backend & APIs
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
 Frontend & Mobile
-Show Image
-Show Image
-Show Image
-
 DevOps & Cloud
-Show Image
-Show Image
-Show Image
-Show Image
-
 
 🚀 What I'm Building
 
 
 AI Automation workflows using LangChain, Ollama, and local LLMs — RAG pipelines, CLI chatbots, agentic tools
 Civic tech platforms for Philippine LGUs — constituent management, genealogy systems, executive dashboards
-Hyperlocal mobile apps — loyalty/gamification systems, QR check-ins, map-based discovery for local businesses
 RPA solutions at enterprise scale — deployed across multinational operations (Nestlé, Maersk)
 
-
-
 Most production work is under NDA or commercial contract. Repos here represent learning tracks and open experiments.
-
-
-
 
 📌 Current Focus
 
@@ -56,7 +29,6 @@ Most production work is under NDA or commercial contract. Repos here represent l
 ✅ NestJS microservices             (production API architecture)
 🔄 DevOps / CI-CD                  (GitHub Actions, Terraform)
 🔄 React Native                    (cross-platform mobile)
-
 
 📂 Featured Project
 
