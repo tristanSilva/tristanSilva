@@ -43,22 +43,4 @@ Includes: CLI chatbot with persistent memory (NagaBot), RAG pipeline experiments
 Python · LangChain · Ollama · Local LLMs · RAG
 
 
-🏢 Background
-
-Role
-
-
-Nestlé Business Services AOA
-Business Process Automation Developer 
-
-Maersk
-Full Stack Developer + RPA Developer
-
-Decode Technologies / Plexigrid, 
-Developer
-
-📫 Let's Connect
-
-I'm open to remote AI Automation Engineering roles and consulting engagements, particularly with teams building intelligent workflows, LLM-powered tools, or civic/government platforms.
-
 "The quieter you become, the more you are able to hear."
