@@ -21,7 +21,7 @@ DevOps & Cloud
 
 AI Automation workflows using LangChain, Ollama, and local LLMs — RAG pipelines, CLI chatbots, agentic tools
 Civic tech platforms for Philippine LGUs — constituent management, genealogy systems, executive dashboards
-RPA solutions at enterprise scale — deployed across multinational operations (Nestlé, Maersk)
+RPA solutions at enterprise scale — deployed across multinational operations.
 
 Most production work is under NDA or commercial contract. Repos here represent learning tracks and open experiments.
 
